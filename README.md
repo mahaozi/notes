@@ -8,7 +8,7 @@
 
 1. markdown 基本语法
 
-***markdown*** ： [markdown](/笔记/1.markdown/markdown.md/ " markdown 基本语法")
+***markdown*** ： [markdown](/notes/1.markdown/markdown.md/ " markdown 基本语法")
 
 2. http 协议
 

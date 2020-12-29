@@ -29,4 +29,4 @@ Markdown是一种**轻量级标记语言**，它以纯文本形式(易读、易�
 
 ### 谁创造了它 ？
 
-它由Aaron Swartz和John Gruber共同设计，关于**Aaron Swartz**有一个悲惨的故事，希望你能了解下。
+它由Aaron Swartz和John Gruber共同设计，关于**Aaron Swartz**有一个悲惨的故事，希望你能了解下。   
